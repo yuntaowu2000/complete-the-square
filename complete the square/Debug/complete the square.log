@@ -1,0 +1,3 @@
+﻿  complete_the_square.cpp
+C:\Users\taotao\source\repos\complete the square\complete the square\complete_the_square.cpp(74,12): warning C4244:  “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  complete the square.vcxproj -> C:\Users\taotao\source\repos\complete the square\Debug\complete the square.exe
